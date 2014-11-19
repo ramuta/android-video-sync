@@ -8,5 +8,6 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_video_forward">VideoForwardActivity</string>
 
 </resources>
